@@ -144,7 +144,7 @@ body {
 
 .sidebarContent {
     gap: 20px;
-    height: 75%;
+    height: auto;
     display: flex;
     padding: 18px 0;
     min-width: 300px;
