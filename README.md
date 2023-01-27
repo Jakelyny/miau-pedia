@@ -1,6 +1,6 @@
 ### MiauPédia
 
- Apenas um treino utilizando o básico de HTML5, CSS, se trata de um blog de informações felinas para execitar flex-box e grid.
+ Apenas um treino utilizando o básico de HTML5, CSS, se trata de um blog de informações felinas para exercitar flex-box e grid.
 
 
  Link da MiauPédia:
